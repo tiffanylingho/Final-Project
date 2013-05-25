@@ -247,7 +247,7 @@ body {
 	#summary h2 { font-size: 2em; }
 	#social { padding: 20px 30px; }
 
-	#personal { margin: 30px AUTO; width: 400px; padding-left: 60px; }
+	#personal { margin: 30px AUTO; text-align: center;}
 	#about #aboutMe, #about #moreAboutMe { width: 100%; float: none; clear: none; }
 	#about #moreAboutMe { margin-top: 20px; } 
 	#about #moreAboutMe #skills { float: left; width: 50%; }
